@@ -1,0 +1,25 @@
+#include
+<iostream>
+<fstream>
+<string>
+class Circle
+using namespace std;
+#include <iostream>
+int main()
+void add()
+return 0;
+switch
+cout <<
+cin >>
+static
+if
+while
+vector
+string
+double
+virtual
+iterator
+str.compare
+strcmp
+rotate
+<algorithm>
